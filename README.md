@@ -5,6 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/jonaaxsic?style=social)](https://github.com/jonaaxsic)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
 [![Autor](https://img.shields.io/badge/Autor-jonaaxsic-blue?style=flat-square&logo=github)](https://github.com/jonaaxsic)
 
 
@@ -95,4 +96,7 @@ Para configurar y ejecutar este proyecto en tu entorno local, sigue los siguient
 
 
 
-* **GitHub:** [jonaaxsic](https://github.com/jonaaxsic)
+* **GitHub:** 
+
+[![creador](https://img.shields.io/badge/Autor-jonaaxsic-blue?style=flat-square&logo=github)](https://github.com/jonaaxsic)
+
