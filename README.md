@@ -1,16 +1,17 @@
 # Registro  de Usuarios con C#, ASP.NET y SQL Server
 
+
+[![GitHub followers](https://img.shields.io/github/followers/jonaaxsic?style=social)](https://github.com/jonaaxsic)
+
+[![GitHub stars](https://img.shields.io/github/stars/jonaaxsic?style=social)](https://github.com/jonaaxsic)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
 [![Autor](https://img.shields.io/badge/Autor-jonaaxsic-blue?style=flat-square&logo=github)](https://github.com/jonaaxsic)
 
 
-[![GitHub followers](https://img.shields.io/github/followers/jonaaxsic?style=social)](https://github.com/jonaaxsic)
-[![GitHub stars](https://img.shields.io/github/stars/jonaaxsic?style=social)](https://github.com/jonaaxsic)
-[![Repo size](https://img.shields.io/github/repo-size/jonaaxsic/Crud)](https://github.com/jonaaxsic/Crud)
-[![Top language](https://img.shields.io/github/languages/top/jonaaxsic/Crud)](https://github.com/jonaaxsic/Crud)
-
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ## Descripción del Proyecto
 
